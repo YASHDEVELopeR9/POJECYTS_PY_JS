@@ -4,5 +4,5 @@
 
 print("hellow guyes")
 
-#
+#then the maind is stop to tinking about next 
 
