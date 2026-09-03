@@ -5,4 +5,6 @@
 print("hellow guyes")
 
 #then the maind is stop to tinking about next 
+# we startinhg to think what next and how can we go to top 
+
 
